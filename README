@@ -1,3 +1,6 @@
+This is the a shell for building an ubuntu hardy nginx package. It's adapted from brightbox's package by James Golick for use on FetLife.
+
+It removes passenger (for now) and adds the nginx upload module.
 
 The Russian documentation is available at http://sysoev.ru/nginx/
 The English documentation is available at http://nginx.net
