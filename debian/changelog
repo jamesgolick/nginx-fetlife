@@ -1,5 +1,12 @@
 nginx-fetlife (0.6.36-0fl5) hardy; urgency=low
 
+  * Passenger module removed for now
+  * Added nginx upload module
+
+ -- James Golick <jamesgolick@gmail.com>  Fri, 19 June 2009 19:56:22 +0100
+
+nginx-fetlife (0.6.36-0fl5) hardy; urgency=low
+
   * Passenger module upgraded to 2.2.2
 
  -- John Leach <john@brightbox.co.uk>  Fri, 01 May 2009 13:24:22 +0100
