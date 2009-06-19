@@ -1,4 +1,4 @@
-nginx-brightbox (0.6.36-0bbox5) hardy; urgency=low
+nginx-fetlife (0.6.36-0fl5) hardy; urgency=low
 
   * Passenger module upgraded to 2.2.2
 

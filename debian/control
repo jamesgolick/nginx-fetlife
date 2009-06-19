@@ -1,4 +1,4 @@
-Source: nginx-brightbox
+Source: nginx-fetlife
 Section: web
 Priority: optional
 Maintainer: James Golick <jamesgolick@gmail.com>
@@ -8,7 +8,7 @@ Build-Depends: debhelper (>= 5), autotools-dev, libpcre3-dev, zlib1g-dev, libssl
 Standards-Version: 3.8.0
 Homepage: http://nginx.net
 
-Package: nginx-brightbox
+Package: nginx-fetlife
 Architecture: any
 Depends: ${shlibs:Depends}, lsb-base (>= 3.2)
 Provides: httpd, nginx
