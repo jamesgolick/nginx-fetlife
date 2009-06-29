@@ -1,3 +1,9 @@
+nginx-fetlife (0.6.36-0fl7) hardy; urgency=low
+
+  * Install the passenger gem, built.
+
+ -- James Golick <jamesgolick@gmail.com>  Mon, 29 June 2009 4:35:22 +0100
+
 nginx-fetlife (0.6.36-0fl6) hardy; urgency=low
 
   * Added passenger module again
